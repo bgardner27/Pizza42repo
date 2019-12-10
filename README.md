@@ -1,6 +1,6 @@
-# Auth0 AngularJS Calling an API
+# Auth0 Pizza 42
 
-This sample demonstrates how to make secure calls to an API after authenticating a user with Auth0. The sample get its dependencies from npm and a small Node.js server is provided to run the application.
+This sample demonstrates how to login in with a Pizza App. Once logged in, the user's profile will be available and be able to order pizza using the app. There will be OAuth so the customer doesn't have to repeat the login sequence
 
 ## Getting Started
 
@@ -9,7 +9,6 @@ If you haven't already done so, [sign up](https://auth0.com) for your free Auth0
 Clone the repo or download it from the AngularJS quickstart page in Auth0's documentation. Install the dependencies for the app.
 
 ```bash
-cd 03-Calling-an-API
 npm install
 ```
 
